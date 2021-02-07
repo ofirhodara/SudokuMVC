@@ -1,0 +1,13 @@
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\bin\Debug\netcoreapp3.1\SudokuOmegaOfir.exe
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\bin\Debug\netcoreapp3.1\SudokuOmegaOfir.deps.json
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\bin\Debug\netcoreapp3.1\SudokuOmegaOfir.runtimeconfig.json
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\bin\Debug\netcoreapp3.1\SudokuOmegaOfir.runtimeconfig.dev.json
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\bin\Debug\netcoreapp3.1\SudokuOmegaOfir.dll
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\bin\Debug\netcoreapp3.1\SudokuOmegaOfir.pdb
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\obj\Debug\netcoreapp3.1\SudokuOmegaOfir.csprojAssemblyReference.cache
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\obj\Debug\netcoreapp3.1\SudokuOmegaOfir.AssemblyInfoInputs.cache
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\obj\Debug\netcoreapp3.1\SudokuOmegaOfir.AssemblyInfo.cs
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\obj\Debug\netcoreapp3.1\SudokuOmegaOfir.csproj.CoreCompileInputs.cache
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\obj\Debug\netcoreapp3.1\SudokuOmegaOfir.dll
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\obj\Debug\netcoreapp3.1\SudokuOmegaOfir.pdb
+C:\Users\Ofir\source\repos\SudokuOmegaOfir\SudokuOmegaOfir\obj\Debug\netcoreapp3.1\SudokuOmegaOfir.genruntimeconfig.cache
